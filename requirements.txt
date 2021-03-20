@@ -10,7 +10,7 @@ distributed==2.17.0
 fsspec==0.7.4
 graphviz==0.14
 HeapDict==1.0.1
-Jinja2==2.11.2
+Jinja2==2.11.3
 locket==0.2.0
 MarkupSafe==1.1.1
 mkl-fft==1.0.15
