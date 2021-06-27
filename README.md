@@ -6,46 +6,21 @@ Transferred over from organisation **discourses**.
 
 ### Environment
 
-* Channel: [Anaconda](https://anaconda.org)
-* Local Environment: _.../miscellaneous_
+**Environment**
 
-<br>
-<br>
-
-
-### Filter & Requirements
-
-Notes w.r.t. explicitly installed packages 
-
-* `conda create --prefix J:/Programs/Anaconda3/envs/miscellaneous python=3.7`
-* `conda install -c anaconda dask pillow==7.1.2`
-* `conda install -c anaconda python-graphviz` (Unable to include in filter.txt)
+Refer to the [github.com/briefings/energy Development Notes](https://github.com/briefings/energy#development-notes), it outlines the
+creation & usage of the environment `miscellaneous`, which is used by this repository also.
 
 <br>
 
-hence, the requirements
+**Requirements**
 
-```
-  pip freeze -r docs/filter.txt > requirements.txt 
+```bash
+    conda activate miscellaneous
+    pip freeze -r docs/filter.txt > requirements.txt
 ```
 
-<br>
-
-Upgrades
-
-* `conda update -c anaconda pillow`, which behaved similarly to `conda activate anaconda`
-* `conda install -c anaconda pillow==8.1.2`
-* `conda install -c anaconda jinja2==2.11.3`
-* `conda install -c anaconda dask==2.30.0`
-
-<br>
-<br>
-
-### Later
-
-```
-  conda install - anaconda pytest coverage pytest-cov pylint
-```
+whereby filter.txt does not include `python-graphviz`.
 
 <br>
 <br>
