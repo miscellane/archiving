@@ -3,8 +3,13 @@
 Transferred over from organisation **discourses**.
 
 <br>
+<br>
 
-### Environment
+### Development Notes
+
+Thus far
+
+<br>
 
 **Environment**
 
@@ -34,3 +39,7 @@ whereby filter.txt does not include `python-graphviz`.
 * [Dask Scheduler](https://docs.dask.org/en/latest/scheduler-overview.html)
 * [Managing Packages via Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html)
 
+<br>
+<br>
+<br>
+<br>
