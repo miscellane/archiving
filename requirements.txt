@@ -1,5 +1,5 @@
 dask[complete]==2021.10.0
-Pillow==9.0.0
+Pillow==9.0.1
 Jinja2==2.11.3
 ## The following requirements were added by pip freeze:
 numpy==1.21.2
