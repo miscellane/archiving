@@ -7,18 +7,7 @@ Transferred over from organisation **discourses**.
 
 ### Development Notes
 
-Thus far
-
-<br>
-
-**Environment**
-
-Refer to the [github.com/briefings/energy Development Notes](https://github.com/briefings/energy#development-notes), it outlines the
-creation & usage of the environment `miscellaneous`, which is used by this repository also.
-
-<br>
-
-**Requirements**
+The environment is [miscellaneous](https://github.com/briefings/energy#development-notes).  In relation to requirements.txt
 
 ```bash
     conda activate miscellaneous
